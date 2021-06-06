@@ -16,8 +16,8 @@
 }
 .navbar-brand img{
     width:150px;
-margin-left: 30px;
-border-radius: 10px 50px 10px 50px;
+ margin-left: 30px;
+ border-radius: 10px 50px 10px 50px;
 }
 .navbar-toggler{
     border:none !important;
@@ -91,7 +91,7 @@ color:#fff;
     }
 
     #features .col-md-6{
-        padding:20px;
+        padding:30px;
     }
     .feature-box{
         height:120px;
@@ -102,10 +102,10 @@ color:#fff;
         float: left;
     }
     .feature-box .feature-left .fa{
-padding-top:13px;
+padding-top:17px;
 font-size: 50px;    }
 .feature-box .feature-right{
-    height:120px;
+    height:150px;
     width:80%;
     float: left;
 }
